@@ -4,3 +4,4 @@
 | Post | Date              | Topics                                          |
 | ---- | ----------------- | ----------------------------------------------- |
 | 1    | August 07, 2020 | [Clojure comparisons:](posts/2020-08-07.md) the comapre operators and comparing to other lanuages  |
+| 1    | August 08, 2020 | [Clojure lists:](posts/2020-08-08.md) first, second, key, and val  |
