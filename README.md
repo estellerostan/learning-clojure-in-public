@@ -9,3 +9,7 @@
 | 4    | August 10, 2020 | [Sequences](posts/2020-08-10.md) |
 | 5    | August 11, 2020 | [Iterate](posts/2020-08-11.md) |
 | 6    | August 12, 2020 | [Exercises](posts/2020-08-12.md) |
+| 7    | August 13, 2020 | [More exercises](posts/2020-08-13.md) |
+| 8    | August 14, 2020 | [`:require`](posts/2020-08-14.md) |
+| 9    | August 15, 2020 | [Tests](posts/2020-08-15.md) |
+| 10   | August 16, 2020 | [Thread macros](posts/2020-08-16.md) |
