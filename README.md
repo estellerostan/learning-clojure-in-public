@@ -1,4 +1,4 @@
-# Learning Clojure in Pubic
+# Learning Clojure in Public
 
 
 | Post | Date              | Topics                                          |
@@ -13,3 +13,9 @@
 | 8    | August 14, 2020 | [`:require`](posts/2020-08-14.md) |
 | 9    | August 15, 2020 | [Tests](posts/2020-08-15.md) |
 | 10   | August 16, 2020 | [Thread macros](posts/2020-08-16.md) |
+| 11   | August 17, 2020 | [Chapter 7:](posts/2020-08-17.md) pprint and use |
+| 12   | August 18, 2020 | [Chapter 7:](posts/2020-08-18.md) into and sorted-set |
+| 13   | August 19, 2020 | [Chapter 7:](posts/2020-08-19.md) FIPS data and map functions |
+| 14   | August 20, 2020 | [Chapter 7:](posts/2020-08-20.md) how to organize code |
+| 15   | August 22, 2020 | [Chapter 7:](posts/2020-08-22.md) exercises exploratory work |
+| 16   | August 23, 2020 | [Chapter 7:](posts/2020-08-23.md) exercises (1/4) |
