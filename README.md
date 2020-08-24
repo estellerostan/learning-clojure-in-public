@@ -19,3 +19,4 @@
 | 14   | August 20, 2020 | [Chapter 7:](posts/2020-08-20.md) how to organize code |
 | 15   | August 22, 2020 | [Chapter 7:](posts/2020-08-22.md) exercises exploratory work |
 | 16   | August 23, 2020 | [Chapter 7:](posts/2020-08-23.md) exercises (1/4) |
+| 17   | August 24, 2020 | [Chapter 7:](posts/2020-08-24.md) exercises (2/4) |
