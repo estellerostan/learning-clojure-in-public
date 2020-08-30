@@ -21,3 +21,6 @@
 | 16   | August 23, 2020 | [Chapter 7:](posts/2020-08-23.md) exercises (1/4) |
 | 17   | August 24, 2020 | [Chapter 7:](posts/2020-08-24.md) exercises (2/4) |
 | 18   | August 25, 2020 | [Chapter 7:](posts/2020-08-25.md) exercises (3/4) |
+| 19   | August 26, 2020 | [Chapter 7:](posts/2020-08-26.md) exercises (4/4) |
+| 20   | August 27, 2020 | [Chapter 8:](posts/2020-08-27.md)discovering the rocket project |
+| 21   | August 29, 2020 | [Chapter 8:](posts/2020-08-29.md) a rocket made in Quil |
