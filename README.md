@@ -26,3 +26,4 @@
 | 21   | August 29, 2020 | [Chapter 8:](posts/2020-08-29.md) a rocket made in Quil |
 | 22   | August 30, 2020 | [Chapter 8:](posts/2020-08-30.md) `merge` |
 | 23   | August 31, 2020 | [Chapter 8:](posts/2020-08-31.md) Forces |
+| 24   | September 01, 2020 | [Chapter 8:](posts/2020-09-01.md) Forces (or debug time) |
